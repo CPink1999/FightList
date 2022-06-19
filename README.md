@@ -1,5 +1,1 @@
-# FightList
-Fight List Development repository
-
-We are the best skrubs
-Bestest best
+This is the Fight List Repository, if you have questions on it, ask Cam.
